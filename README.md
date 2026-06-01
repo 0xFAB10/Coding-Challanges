@@ -2,7 +2,7 @@
 
 Este repositório é um registro da minha jornada de aprendizado contínuo e resolução de problemas em diversas linguagens e plataformas.
 
-## 🚀 Tecnologias e Plataformas
+## Tecnologias e Plataformas
 
 | Linguagem | Plataforma | Foco |
 | :--- | :--- | :--- |
@@ -16,7 +16,7 @@ Este repositório é um registro da minha jornada de aprendizado contínuo e res
 | **Linux Shell** | HackerRank | OS Interaction, Text Processing & Pipelines |
 | **Problem Solving** | HackerRank | Algorithm Design & Logic Challenges |
 
-## 📈 Progresso
+## Progresso
 
 - [ ] HackerRank SQL: Silver Badge
 - [ ] HackerRank CPP: Silver Badge
